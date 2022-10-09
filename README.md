@@ -2,7 +2,7 @@
 
 ## Tests
 
-Start script `check2.sh` using command `bash check.sh`\
+Start script `check2.sh` using command `bash check.sh`
 
 * NOTE: you had to update classpath inside check2.sh to correspond to your *.class folder
 
